@@ -40,7 +40,7 @@ layout: default
 ## Project #6 
 #### Fear & Loathing on the Open Seas
 
-<a href="Retention_Analysis_Better.md"><img src="Images/pearl_cropped.png" alt="sailboat" style="width:300px"/></a>
+<a href="_posts/2023-1-15-Retention-Analysis.markdown"><img src="Images/pearl_cropped.png" alt="sailboat" style="width:300px"/></a>
 
 * * *
 
