@@ -38,9 +38,9 @@ layout: default
 * * *
 
 ## Project #6 
-#### Terror Prevention on the Open Seas
+#### Fear & Loathing on the Open Seas
 
-<img src="Images/pearl_cropped.png" alt="sailboat" style="width:300px"/>
+<a href="Retention_Analysis_Better/Retention_Analysis_Better.md"><img src="Images/pearl_cropped.png" alt="sailboat" style="width:300px"/></a>
 
 * * *
 
