@@ -23,7 +23,7 @@ email: sshanks@fastmail.fm
 description: >- # this means to ignore newlines until "baseurl:"
   This portfolio of data science projects is intended to express my range of 
   interests and skills. This does not represent the LIMITS of either.
-
+  \n\n
   I am relentlessly curious.
 
 baseurl: "/Data_Science" # the subpath of your site, e.g. /blog
@@ -37,9 +37,10 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 markdown: GFM
 
+#theme: jekyll-theme-midnight
 #theme: minima
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

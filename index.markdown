@@ -4,3 +4,46 @@
 
 layout: home
 ---
+
+
+## Project #1
+#### Insights from the Core of Mars
+
+<img src="Images/mars_core.jpg" alt="Mars Interior" style="width:300px"/>
+
+* * *
+
+## Project #2 
+#### 1,100 Runs; or, Empirical Confessions of an Aging Runner
+
+<img src="Images/dirty_shoes.png" alt="Dirty Shoes" style="width:300px"/>
+
+* * *
+
+## Project #3 
+#### The Tallest Tree in the Big Apple...
+
+<img src="Images/queens_giant.jpg" alt="Queens Giant" style="width:300px"/>
+
+* * *
+
+## Project #4 
+#### 5,000 Exoplanets, and counting...
+
+<img src="Images/trappist_system.jpg" alt="Trappist System" style="width:300px"/>
+
+* * *
+
+## Project #5 
+#### How to Educate a Robot
+
+<img src="Images/cute-robot-drawing-64.png" alt="smart_robot" style="width:300px"/>
+
+* * *
+
+## Project #6 
+#### Fear & Loathing on the Open Seas
+
+<a href="_posts/2023-1-15-Retention-Analysis.markdown"><img src="Images/pearl_cropped.png" alt="sailboat" style="width:300px"/></a>
+
+* * *

@@ -109,7 +109,7 @@ plt.show()
 
 
     
-![png](output_8_0.png)
+![png](assets/output_8_0.png)
     
 
 
@@ -161,7 +161,7 @@ print(f'Long-term retention rate: {gone}%')
 
 
     
-![png](output_10_0.png)
+![png](assets/output_10_0.png)
     
 
 
@@ -191,7 +191,7 @@ sns.histplot(data = humble, x='FINAL_CREDITS').set(title='Final credits for "Dep
 
 
     
-![png](output_11_2.png)
+![png](assets/output_11_2.png)
     
 
 
@@ -253,7 +253,7 @@ print(f'Long-term retention rate: {gone}%')
 
 
     
-![png](output_14_0.png)
+![png](assets/output_14_0.png)
     
 
 
